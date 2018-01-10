@@ -1,7 +1,5 @@
 <?php
 
-
-// 12 de Octubre del 2014
 // Action.php
 // @brief Un action corresponde a una rutina de un modulo.
 

@@ -3,7 +3,7 @@ class Database {
 	public static $db;
 	public static $con;
 	function Database(){
-		$this->user="root";$this->pass="";$this->host="localhost";$this->ddbb="schema";
+		$this->user="root";$this->pass="";$this->host="localhost";$this->ddbb="db_emperador_final_final";
 	}
 
 	function connect(){

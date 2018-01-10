@@ -1,8 +1,8 @@
 /**
-@author evilnapsis
+@author ema
 **/
-create database thunder;
-use thunder;
+create database db_emperador_final_final;
+use db_emperador_final_final;
 
 create table user(
 	id int not null auto_increment primary key,

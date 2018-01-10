@@ -64,20 +64,12 @@ if(Session::getUID()!=""):
           <?php if($u->is_admin):?>
           <li><a href="index.php?view=products"><i class="fa fa-glass"></i> Productos</a></li>
 
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-caret-square-o-down"></i> Inventario <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="index.php?view=ingredients"><i class="fa fa-circle"></i> Ingredientes</a></li>
-                <li><a href="index.php?view=re"><i class="fa fa-refresh"></i> Abastecer</a></li>
-                <li><a href="index.php?view=inventary"><i class="fa fa-area-chart"></i> Inventario</a></li>
-              </ul>
-            </li>
+           
+          <!-- <li><a href="index.php?view=ingredients"><i class="fa fa-circle"></i> Ingredientes</a></li> -->
 
 
 
           <li><a href="index.php?view=categories"><i class="fa fa-th-list"></i> Categorias</a></li>
-
-          <li><a href="index.php?view=reports"><i class="fa fa-area-chart"></i> Reportes</a></li>
           <li><a href="index.php?view=users"><i class="fa fa-users"></i> Usuarios </a></li>
         <?php endif;?>
           </ul>

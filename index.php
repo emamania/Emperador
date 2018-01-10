@@ -1,8 +1,8 @@
 <?php
 /**
 * BookMedik v2.0
-* @author evilnapsis
-* @brief Libera la bestia ...
+* @author ema
+* @emamania Libera la bestia ...
 **/
 
 session_start();
