@@ -1,17 +1,14 @@
 # El emperador
-Sistema de Administracion de un Restaurant, Cafeteria, Bar, Pizzeria, etc
+Sistema de Administracion de un Restaurant, Bar, Pizzeria, etc
 
 
-### Version 1.1
+### Version 1.5
 
 - Productos
 - Ventas
 - Ingredientes
-- Inventario
 - Meseros
 - Mesas
-- Historiales
-- Reportes
 - Usuarios
 
 
